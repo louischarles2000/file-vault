@@ -8,7 +8,7 @@ function Hero() {
         <p className='text-[#80df9a] md:text-[18px] text-[12px] font-bold p-2'>SECURE FILE STORAGE</p>
         <h1 className='md:text-4xl sm:text-4xl text-[20px] font-bold md:py-1'>File Storage and Security Simplified.</h1>
         <div className='flex justify-center items-center'>
-          <p className='md:text-2xl sm:text-[20px] text-[13px] font-bold md:py-1 py-2'>{`Garantee and uphold your data's`} </p>
+          <p className='md:text-2xl sm:text-[20px] text-[13px] font-bold md:py-1 py-2'>{`Guarantee and uphold your data's`} </p>
           <Typed
             className='md:text-2xl sm:text-[20px] text-[13px] font-bold pl-2 text-[#cccccc]'
             strings={[
